@@ -1,4 +1,10 @@
 ### Tarea #3 - Dashboards en Python "Panama-Metropolitan-Medical"
+# Asignatura: Análisis de Datos y Toma de Decisiones para Computación
+# Grupo: 1IL133
+# Integrantes: 
+    - Miguel Man        8-1032-360
+    - Roberto Castillo  2-758-246
+    - David Roa		 	E-8-240914
 
 ## Descripción del Proyecto
 Este proyecto, como Tarea #3, es un Dashboard basado en el Modelo-Vista-Controlador (en Flask + Dash + Plotly) elaborado en el lenguaje de programación python. 

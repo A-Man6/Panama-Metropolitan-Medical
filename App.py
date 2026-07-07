@@ -85,7 +85,7 @@ app.layout = html.Div(style={
         'zIndex': '10',
         'position': 'relative',
     }, children=[
-        html.H1("Dashboard Gerencial - Clínica Metropolitana",
+        html.H1("Dashboard Gerencial - Panama Metropolitan Medical",
                 style={'textAlign': 'center', 'fontWeight': 'bold', 'margin': '0 0 10px 0', 'color': '#ffffff',
                        'textShadow': '0px 2px 4px rgba(0,0,0,0.6)'}),
         html.P("Análisis Operativo y Financiero",
